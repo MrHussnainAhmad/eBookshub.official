@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/eBookshub.official/static/css/main.b8c7e848.css",
+    "main.js": "/eBookshub.official/static/js/main.1d404ae9.js",
+    "static/media/2.png": "/eBookshub.official/static/media/2.c791d260a7bd243afa69.png",
+    "static/media/1.png": "/eBookshub.official/static/media/1.d9f5207b44c674170b39.png",
+    "static/media/3.png": "/eBookshub.official/static/media/3.721e5429745bf275697e.png",
+    "index.html": "/eBookshub.official/index.html",
+    "main.b8c7e848.css.map": "/eBookshub.official/static/css/main.b8c7e848.css.map",
+    "main.1d404ae9.js.map": "/eBookshub.official/static/js/main.1d404ae9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8c7e848.css",
+    "static/js/main.1d404ae9.js"
+  ]
+}
